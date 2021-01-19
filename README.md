@@ -24,7 +24,7 @@
 * [ ] Пройти курс по Git на Slurm
 * [ ] Создать свой первый проект на Github       
 <!-- TODO-IST:END -->
-
+#slurm
 <!--
 **ZRenata/ZRenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
